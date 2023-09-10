@@ -1,0 +1,26 @@
+Fusion Business Development
+
+Welcome to Fusion Business Development, your trusted partner for creating robust technical infrastructure and development plans tailored to your business needs. With a decade of expertise, we understand the digital landscape and help you navigate it seamlessly.
+
+Since 2011, Fusion Business Development has been transforming businesses with expert DevOps solutions; and bridging the gap between business aspirations and technical reality.
+
+Spearheaded by a seasoned DevOps Architect, our firm plays multiple roles from a Cloud Architect to a freelance CTO/CIO/COO, ensuring businesses not only adapt but thrive in this digital age.
+
+Our deep knowledge spans across major operating systems, cloud platforms, deployment methodologies, and enterprise-level product requirements, positioning us uniquely to cater to varied business needs.
+
+Services
+
+Technical Infrastructure Design: Bringing your vision to life with solid tech foundations.
+Development Plans & Long-term Strategy: Crafting roadmaps for sustainable business growth.
+Cloud Architecture: Expertise across AWS, Azure, Bluemix, GCP, DO, and more.
+Deployment Solutions: Proficiency in Ansible, Chef, Puppet, Terraform, and others.
+Containerization & Systems: Dive into VMs, Docker, Kubernetes, and the like.
+Security & Monitoring: Keep your systems safe and monitored using top-tier tools.
+Scripting & Automation: Streamline operations across Bash, Powershell, Python, Go, Rust, Java, and other languages.
+Database Automation: Optimizing data handling, from MySQL to NoSQL.
+CI/CD Deployments: Integrating and deploying with Git, Jenkins, GitHub Actions, Argo, and others.
+
+Contact Info
+Leo Paska
+Founder & CEO
+leo@fusionbiz-dev.com

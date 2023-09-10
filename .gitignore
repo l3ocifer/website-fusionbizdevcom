@@ -1,0 +1,13 @@
+    # React
+    fusionbizdevcom/node_modules/
+    fusionbizdevcom/build/
+    *.log
+
+    # Terraform
+    **/.terraform/
+    *.tfstate
+    *.tfstate.backup
+    *.tfvars
+
+    # Misc
+    *.DS_Store
